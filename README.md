@@ -1,4 +1,13 @@
-Problems encountered: 
+# Problems encountered: 
+
 Wrote href:"" instead of href="", took a minute to notice. 
-Couldnt access my css file, used lowercase letters instead of uppercase.
+
+Couldnt access my css file, used lowercase letters instead of uppercase. 
+
 lost the whole god damn thing because the tutorialvideo didnt cover the errormessage i got from using the template when i wanted to push.
+
+## h2
+### h3
+#### h4
+##### h5
+###### h6
